@@ -254,3 +254,5 @@ EXPOSE 9000
 # Define default command.
 CMD ["mysqld_safe"]
 CMD ["/run.sh"]
+
+# trevis test
